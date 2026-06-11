@@ -5,6 +5,7 @@ This template provides a minimal setup to get React working in Vite with HMR and
 ![image alt](https://github.com/Kaustubh-Aware/Space-Exploration-Project/blob/5dde71461d61d24160406f71c7ab1ef725cb0a23/itr1.PNG)
 ![image alt](https://github.com/Kaustubh-Aware/Space-Exploration-Project/blob/31a6a92dfe56d1cf8ef7b1a40c62dc2bd637ada2/itr2.PNG)
 ![image alt](https://github.com/Kaustubh-Aware/Space-Exploration-Project/blob/ed353633cd7ebd31fbb3a2d0092768fb9f1450e1/itr3.PNG)
+![image alt](https://github.com/Kaustubh-Aware/Space-Exploration-Project/blob/ff6fdc0817bedb93f565cfc00c2c68199ed74a55/itr4.PNG)
 
 
 Currently, two official plugins are available:
