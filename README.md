@@ -2,6 +2,9 @@
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
+![image alt](https://github.com/Kaustubh-Aware/Space-Exploration-Project/blob/5dde71461d61d24160406f71c7ab1ef725cb0a23/itr1.PNG)
+
+
 Currently, two official plugins are available:
 
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
